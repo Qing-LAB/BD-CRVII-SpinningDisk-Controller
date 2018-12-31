@@ -29,6 +29,7 @@
 		<Item Name="spindisk_config_file.vi" Type="VI" URL="../spindisk_config_file.vi"/>
 		<Item Name="spindisk_extcontrol_init.vi" Type="VI" URL="../spindisk_extcontrol_init.vi"/>
 		<Item Name="spindisk_unit_controller.vi" Type="VI" URL="../spindisk_unit_controller.vi"/>
+		<Item Name="test panel.vi" Type="VI" URL="../../test panel.vi"/>
 		<Item Name="test serial.vi" Type="VI" URL="../test serial.vi"/>
 		<Item Name="update_dichroic_mirror.vi" Type="VI" URL="../update_dichroic_mirror.vi"/>
 		<Item Name="update_disk_position.vi" Type="VI" URL="../update_disk_position.vi"/>
