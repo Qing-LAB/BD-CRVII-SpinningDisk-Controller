@@ -28,6 +28,7 @@
 		<Item Name="serial_write_and_read.vi" Type="VI" URL="../serial_write_and_read.vi"/>
 		<Item Name="spindisk_config_file.vi" Type="VI" URL="../spindisk_config_file.vi"/>
 		<Item Name="spindisk_extcontrol_init.vi" Type="VI" URL="../spindisk_extcontrol_init.vi"/>
+		<Item Name="spindisk_unit_controller.ico" Type="Document" URL="../spindisk_unit_controller.ico"/>
 		<Item Name="spindisk_unit_controller.vi" Type="VI" URL="../spindisk_unit_controller.vi"/>
 		<Item Name="test panel.vi" Type="VI" URL="../../test panel.vi"/>
 		<Item Name="test serial.vi" Type="VI" URL="../test serial.vi"/>
@@ -240,7 +241,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{49420DAA-EF14-4147-A6E6-CDED83574E94}</Property>
-				<Property Name="Bld_version.build" Type="Int">22</Property>
+				<Property Name="Bld_version.build" Type="Int">30</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">spindisk_unit_controller.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/spindisk_unit_controller/spindisk_unit_controller.exe</Property>
@@ -249,13 +250,15 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/spindisk_unit_controller/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{3D054663-5EC2-4F49-B06E-BA7DA23B0291}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/spindisk_unit_controller.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{C7354D84-B31B-4402-AB10-783E56E87E69}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/spindisk_unit_controller.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
+				<Property Name="TgtF_companyName" Type="Str">QingLAB @ Arizona State University</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">spindisk_unit_controller</Property>
 				<Property Name="TgtF_internalName" Type="Str">spindisk_unit_controller</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2018 </Property>
