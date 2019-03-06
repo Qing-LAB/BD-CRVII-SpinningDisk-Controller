@@ -241,7 +241,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{49420DAA-EF14-4147-A6E6-CDED83574E94}</Property>
-				<Property Name="Bld_version.build" Type="Int">31</Property>
+				<Property Name="Bld_version.build" Type="Int">32</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">spindisk_unit_controller.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/spindisk_unit_controller/spindisk_unit_controller.exe</Property>
@@ -251,7 +251,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/spindisk_unit_controller/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/spindisk_unit_controller.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{C7354D84-B31B-4402-AB10-783E56E87E69}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E840F573-E3B8-45C5-BA00-12D4E07CE5FA}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/spindisk_unit_controller.vi</Property>
